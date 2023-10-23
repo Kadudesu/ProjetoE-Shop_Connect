@@ -8,9 +8,15 @@ Comandos DDL:
 
 2)Crie visualizações (views) para fazer o seguinte:
 Consultar todos os produtos existentes na loja;
+
 Consultar os nomes de todos os usuários;
+
 Consultar as lojas que vendem produtos;
+
 Consultar os endereços relacionando com os clientes;
+
 Consultar todos os produtos do tipo laptop;
+
 Consultar o endereço, hora de inicio (start time) e hora final (end time) dos pontos de serviço damesma cidade que o usuário cujo ID é 5.
+
 Consultar a quantidade total de produtos que foram colocados no carrinho (shopping cart),considerando a loja com ID (sid) igual a 8.Consultar os comentários do produto 123456789.
