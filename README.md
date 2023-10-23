@@ -4,7 +4,9 @@ A  E-ShopConnect, é  uma  empresa de  comércio eletrônico deseja  criar  um  
 
 Comandos DDL: 
 1)Faça a inserção de dados nas tabelas, utilize o arquivo inserts.sql para incluir essas informaçõesnas tabelas;
+
 2)Crie visualizações (views) para fazer o seguinte
+
 :Consultar todos os produtos existentes na loja;
 Consultar os nomes de todos os usuários;
 Consultar as lojas que vendem produtos;
