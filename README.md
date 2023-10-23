@@ -8,6 +8,7 @@ Comandos DDL:
 
 2)Crie visualizações (views) para fazer o seguinte:
 Consultar todos os produtos existentes na loja;
+
 Consultar os nomes de todos os usuários;
 Consultar as lojas que vendem produtos;
 Consultar os endereços relacionando com os clientes;
